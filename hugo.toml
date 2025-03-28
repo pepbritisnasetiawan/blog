@@ -1,4 +1,4 @@
-baseURL = 'baseURL = 'https://bluegates.netlify.app'
+baseURL = 'https://bluegates.netlify.app'
 languageCode = 'en-us'
 paginate = 10
 title = 'BlueGates'
