@@ -1,13 +1,74 @@
 baseURL = 'https://my-hugo-blog.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+paginate = 10
+title = 'BlueGates'
 theme = 'PaperMod'
 
 [outputs]
-home = ["HTML", "RSS", "JSON"]
-section = ["HTML", "RSS", "JSON"]
-taxonomy = ["HTML", "RSS", "JSON"]
-term = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS", "JSON"]
+  taxonomy = ["HTML", "RSS", "JSON"]
+  term = ["HTML", "RSS", "JSON"]
 
 [params]
-env = 'production'
+  [params.profileMode]
+    enabled = true
+    title = "BlueGates" # optional default will be site title
+    subtitle = "Exploring Malware, Threats, and Cyber Defense 🛡️"
+    imageUrl = "/images/avatar.png" # optional
+    imageTitle = "Profile Picture" # optional
+    imageWidth = 120 # custom size
+    imageHeight = 120 # custom size
+
+    [[params.profileMode.buttons]]
+      name = "Post"
+      url = "/posts"
+    [[params.profileMode.buttons]]
+      name = "GitHub"
+      url = "https://github.com/pepbritisnasetiawan"
+
+  [[params.socialIcons]]
+    name = "GitHub"
+    url = "https://github.com/pepbritisnasetiawan"
+  [[params.socialIcons]]
+    name = "Twitter"
+    url = "https://x.com/febrian_tisna"
+
+  defaultTheme = "auto" # auto, dark, light
+  disableThemeToggle = false
+  showReadingTime = true
+  showWordCount = true
+  showDate = true
+  showToc = true
+  tocOpen = true
+  showPostNavLinks = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+  showShareButtons = true
+  comments = false
+  env = 'production'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Post"
+    url = "/posts/"
+    weight = 3
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "monokai"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
