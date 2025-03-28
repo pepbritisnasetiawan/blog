@@ -1,0 +1,13 @@
+baseURL = 'https://my-hugo-blog.netlify.app'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+section = ["HTML", "RSS", "JSON"]
+taxonomy = ["HTML", "RSS", "JSON"]
+term = ["HTML", "RSS", "JSON"]
+
+[params]
+env = 'production'
