@@ -2,17 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hunin on BlueGates</title>
-    <link>http://localhost:44355/tags/hunin/</link>
+    <link>https://my-hugo-blog.netlify.app/tags/hunin/</link>
     <description>Recent content in Hunin on BlueGates</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Mar 2025 05:18:10 +0700</lastBuildDate>
-    <atom:link href="http://localhost:44355/tags/hunin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 06:22:44 +0700</lastBuildDate>
+    <atom:link href="https://my-hugo-blog.netlify.app/tags/hunin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static vs Dynamic Malware Analysis</title>
+      <link>https://my-hugo-blog.netlify.app/posts/static-vs-dynamic-malware-analysis/</link>
+      <pubDate>Sat, 29 Mar 2025 06:22:44 +0700</pubDate>
+      <guid>https://my-hugo-blog.netlify.app/posts/static-vs-dynamic-malware-analysis/</guid>
+      <description>Static vs Dynamic Analysis Malware analysis is divided into two primary techniques: static and dynamic analysis.
+Comparison: Static Analysis Dynamic Analysis Code inspection without execution Analyzing malware behavior in execution Fast and lightweight Requires sandbox environment Cannot detect obfuscated code Can bypass obfuscation Understanding when to use each method is key to effective malware analysis. 🔍</description>
+    </item>
+    <item>
+      <title>Mastering Siem: Building Effective Detection Rules</title>
+      <link>https://my-hugo-blog.netlify.app/posts/mastering-siem-building-effective-detection-rules/</link>
+      <pubDate>Sat, 29 Mar 2025 06:22:11 +0700</pubDate>
+      <guid>https://my-hugo-blog.netlify.app/posts/mastering-siem-building-effective-detection-rules/</guid>
+      <description>Why SIEM is Critical Security Information and Event Management (SIEM) platforms are essential for monitoring and responding to security events.
+Topics Covered: Setting up custom detection rules Correlating security events for better visibility Tuning SIEM to reduce false positives Effective SIEM rules can significantly improve your detection capabilities. 🛡️</description>
+    </item>
+    <item>
+      <title>Exploring Threats and Malware in the Wild</title>
+      <link>https://my-hugo-blog.netlify.app/posts/exploring-threats-and-malware-in-the-wild/</link>
+      <pubDate>Sat, 29 Mar 2025 06:21:35 +0700</pubDate>
+      <guid>https://my-hugo-blog.netlify.app/posts/exploring-threats-and-malware-in-the-wild/</guid>
+      <description>Introduction Cyber threats are becoming more sophisticated, requiring better detection and response capabilities. This post explores common threat vectors and how to analyze them effectively.
+Key Points: Common malware techniques used in the wild How to detect malware using dynamic analysis Understanding rootkit behavior in kernel-level attacks Stay tuned for more insights! 🚀</description>
+    </item>
+    <item>
+      <title>Emotet Analysis</title>
+      <link>https://my-hugo-blog.netlify.app/posts/emotet-analysis/</link>
+      <pubDate>Sat, 29 Mar 2025 06:18:09 +0700</pubDate>
+      <guid>https://my-hugo-blog.netlify.app/posts/emotet-analysis/</guid>
+      <description>Executive Summary Emotet is a sophisticated banking trojan that has evolved into a modular malware distribution platform. This analysis reveals its multi-stage infection process, advanced evasion techniques, and ability to deliver additional payloads like TrickBot and Ryuk ransomware. The sample shows significant improvements in anti-analysis capabilities compared to earlier variants.
+Threat Level: Critical
+Family: Emotet
+Aliases: Heodo, Feodo
+Discovered: Initially 2014, this variant from January 2023
+Platform: Windows
+Sample Information Attribute Value File Name invoice_29381.</description>
+    </item>
     <item>
       <title>Malware Analysis Hun</title>
-      <link>http://localhost:44355/posts/malware-analysis-hun/</link>
+      <link>https://my-hugo-blog.netlify.app/posts/malware-analysis-hun/</link>
       <pubDate>Sat, 29 Mar 2025 05:18:10 +0700</pubDate>
-      <guid>http://localhost:44355/posts/malware-analysis-hun/</guid>
+      <guid>https://my-hugo-blog.netlify.app/posts/malware-analysis-hun/</guid>
       <description>test</description>
     </item>
   </channel>

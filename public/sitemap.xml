@@ -2,43 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:44355/about/</loc>
-    <lastmod>2025-03-29T06:06:26+07:00</lastmod>
+    <loc>https://my-hugo-blog.netlify.app/tags/analysis/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44355/</loc>
-    <lastmod>2025-03-29T06:06:26+07:00</lastmod>
+    <loc>https://my-hugo-blog.netlify.app/tags/blue-team/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44355/tags/analysis/</loc>
+    <loc>https://my-hugo-blog.netlify.app/categories/blue-team/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/categories/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/tags/hunin/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/tags/malware/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/categories/malware-analysis/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/posts/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/posts/static-vs-dynamic-malware-analysis/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/tags/</loc>
+    <lastmod>2025-03-29T06:22:44+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/posts/mastering-siem-building-effective-detection-rules/</loc>
+    <lastmod>2025-03-29T06:22:11+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/posts/exploring-threats-and-malware-in-the-wild/</loc>
+    <lastmod>2025-03-29T06:21:35+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/posts/emotet-analysis/</loc>
+    <lastmod>2025-03-29T06:18:09+07:00</lastmod>
+  </url><url>
+    <loc>https://my-hugo-blog.netlify.app/posts/malware-analysis-hun/</loc>
     <lastmod>2025-03-29T05:18:10+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44355/tags/blue-team/</loc>
-    <lastmod>2025-03-29T05:18:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44355/categories/blue-team/</loc>
-    <lastmod>2025-03-29T05:18:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44355/categories/</loc>
-    <lastmod>2025-03-29T05:18:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44355/tags/hunin/</loc>
-    <lastmod>2025-03-29T05:18:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44355/tags/malware/</loc>
-    <lastmod>2025-03-29T05:18:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44355/categories/malware-analysis/</loc>
-    <lastmod>2025-03-29T05:18:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44355/posts/malware-analysis-hun/</loc>
-    <lastmod>2025-03-29T05:18:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44355/posts/</loc>
-    <lastmod>2025-03-29T05:18:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44355/tags/</loc>
-    <lastmod>2025-03-29T05:18:10+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44355/posts/first-post/</loc>
+    <loc>https://my-hugo-blog.netlify.app/posts/first-post/</loc>
     <lastmod>2025-03-29T04:49:41+07:00</lastmod>
   </url>
 </urlset>
