@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2025-03-29T06:06:26+07:00
-draft = true
+draft = false
 +++
 
 ## 👋 Hi, I'm Febrian Tisna
