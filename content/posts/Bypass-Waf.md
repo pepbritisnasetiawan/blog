@@ -1,7 +1,7 @@
 +++
 title = 'Bypass Waf'
 date = 2025-03-29T07:06:38+07:00
-draft = true
+draft = false
 tags = ["malware", "analysis", "hunin", "blue team"]
 categories = ["Malware Analysis", "Blue Team"]
 +++
