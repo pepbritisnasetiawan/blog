@@ -72,3 +72,9 @@ theme = 'PaperMod'
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[server]
+  [[server.headers]]
+    for = "**.json"
+    [server.headers.values]
+      Access-Control-Allow-Origin = "*"
